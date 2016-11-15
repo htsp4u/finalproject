@@ -1,6 +1,68 @@
-#servicesBox {
-	height: 209 px;
-	width: 375 px;
-	float: left;
+#services {
+	margin-top: 10px;
 	display: block;
+	height: 225px;
+	text-align: center;
+	margin-bottom: 10px;
+}
+
+#services h3 {
+    font-size: 27px;
+    float: right;
+    margin: 0px;
+    border: 3px solid #0DA1D6;
+    margin: 0px;
+    padding: 23px 0px;
+}
+
+#services img {
+	margin: 0px;
+	padding: 0px;
+	float:left;
+}
+
+#projects {
+	margin-top: 10px;
+	display: block;
+	height: 225px;
+	text-align: center;
+	margin-bottom: 10px;
+}
+
+#projects h3 {
+    font-size: 27px;
+    float: right;
+    margin: 0px;
+    border: 3px solid #0DA1D6;
+    margin: 0px;
+    padding: 23px 0px;
+}
+
+#projects img {
+	margin: 0px;
+	padding: 0px;
+	float:left;
+}
+
+#contact {
+	margin-top: 10px;
+	display: block;
+	height: 225px;
+	text-align: center;
+	margin-bottom: 10px;
+}
+
+#contact h3 {
+    font-size: 27px;
+    float: right;
+    margin: 0px;
+    border: 3px solid #0DA1D6;
+    margin: 0px;
+    padding: 23px 0px;
+}
+
+#contact img {
+	margin: 0px;
+	padding: 0px;
+	float:left;
 }
